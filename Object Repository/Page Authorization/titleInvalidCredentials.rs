@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleInvalidCredentials</name>
+   <tag></tag>
+   <elementGuidId>3c0ccdf7-3d2d-4b65-8b98-70b68be31f30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-alert-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c2015349-1bf3-42a7-af5c-9e064b40975a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-alert-content-text</value>
+      <webElementGuid>4659161d-eed2-45b2-a0f7-40bcb6f7e099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid credentials</value>
+      <webElementGuid>7275eb8d-f698-4415-9ae4-ea28d712f196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/div[@class=&quot;orangehrm-login-error&quot;]/div[@class=&quot;oxd-alert oxd-alert--error&quot;]/div[@class=&quot;oxd-alert-content oxd-alert-content--error&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-alert-content-text&quot;]</value>
+      <webElementGuid>190d8ea1-8bac-4a71-8cdb-b7236f25e27f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/div/div/div/p</value>
+      <webElementGuid>cb5fd11b-d412-4c96-b451-51b4c879de54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::p[3]</value>
+      <webElementGuid>655f91f4-5e13-4e3e-8e6d-382fdeb85185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid credentials']/parent::*</value>
+      <webElementGuid>4d61087a-87a1-4c51-9e4e-6ae48e9a3f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>11bfe859-ad63-4161-8df4-de49b56bd30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Invalid credentials' or . = 'Invalid credentials')]</value>
+      <webElementGuid>06fa120b-6e05-4152-af36-fd5f87e684cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

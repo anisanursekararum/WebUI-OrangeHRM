@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleDashboard</name>
+   <tag></tag>
+   <elementGuidId>721f8100-d5de-4661-8236-07d3bdaed93a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@class='oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.oxd-text.oxd-text--h6.oxd-topbar-header-breadcrumb-module</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>19600363-0ba6-42ed-a312-b27114649a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module</value>
+      <webElementGuid>5b5396d2-debe-470d-b3b9-1f7a94776d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>1ab17095-24a3-41e5-8766-a8c38d90bc3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-title&quot;]/span[@class=&quot;oxd-topbar-header-breadcrumb&quot;]/h6[@class=&quot;oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module&quot;]</value>
+      <webElementGuid>b6a70205-0c9d-4823-8cf5-d0f29b052185</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div/span/h6</value>
+      <webElementGuid>1b2ad405-f036-40eb-8a2a-895aa21ac0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>f096e243-ad39-4ac4-9678-ce0a2573441f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>9f15d5e5-0562-4740-99cc-9bb7341fc7f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
