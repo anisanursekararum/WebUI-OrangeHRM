@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - negativeLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a77fe3a4-d13d-4d99-8d67-47ae9f0b4394</testCaseGuid>
+</TestCaseEntity>
